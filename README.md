@@ -11,3 +11,6 @@
 7) Removing Duplicates
 8) Handling Missing Values & Removing Observations
 9) Final data cleaning check 
+
+
+Give final conclusion of what you cleaned and why
